@@ -1,6 +1,6 @@
 # Pine
 
-Pine è un pattern architetturale ideato da un mio amico, in pine gli elementi sono organizzati **gerarchicamente** e si scambiano informazioni seguendo una precisa direzione. Ha un suo package ma sostanzialmente è vuoto, ha solo delle classi per gestire la DI secondo la gerarchgia che vedremo più avanti. Sempre lui, Angelo Cassano ha fatto diversi altri package flutter molto utili, come `flutter_flavorizr` e `data_fixture_dart` (estremamente utile in fase di test)
+Pine è un pattern architetturale ideato da un mio amico, in pine gli elementi sono organizzati **gerarchicamente** e si scambiano informazioni seguendo una precisa direzione. Ha un suo package ma sostanzialmente è vuoto, ha solo delle classi per gestire la DI secondo la gerarchia che vedremo più avanti. Sempre lui, Angelo Cassano ha fatto diversi altri package flutter molto utili, come `flutter_flavorizr` e `data_fixture_dart` (estremamente utile in fase di test)
 
 ## Packages utilizzati
 
