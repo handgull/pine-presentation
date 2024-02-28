@@ -61,9 +61,9 @@ Perchè non costruire direttamente un DTO che contiene solo le informazioni che 
 Il pattern repository è un design pattern dell'ingegneria del SW che consente di disaccoppiare l'accesso al layer dei dati rispetto al layer di presentation. Se ad esempio dopo aver fatto la get delle risorse online volessimo anche memorizzare essi in una base di dati locale senza repositories dovremmo far comunicare il bloc con n servizi che si occupano di fare queste n cose, accoppiando fortemente i bloc alla business logic, con una repository la logica resta disaccoppiata e facilmente refactorabile.<br>
 Vantaggi:
 
-- Accesso centralizzato ai dati evitando la duplicazione del codice
-- Codice più facilmente manutenibile e testabile grazie al disaccoppiamento
-- Sorgenti dati facilmente intercambiabili
+- **Accesso centralizzato** ai dati evitando la duplicazione del codice
+- Codice più facilmente **manutenibile** e testabile grazie al **disaccoppiamento**
+- Sorgenti dati facilmente **intercambiabili**
 
 ## Capitolo bonus: i brick
 Mason è una utility sviluppata dal creatore di bloc, è un generatore di **template** dinamico, può essere usato per creare le proprie **strutture boilerplate** usate spesso nel proprio workflow. Pine ha i propri bricks che aiutano a generare i files ed i relativi file di test.
