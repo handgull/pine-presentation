@@ -64,3 +64,6 @@ Vantaggi:
 - Accesso centralizzato ai dati evitando la duplicazione del codice
 - Codice più facilmente manutenibile e testabile grazie al disaccoppiamento
 - Sorgenti dati facilmente intercambiabili
+
+## Capitolo bonus: i brick
+Mason è una utility sviluppata dal creatore di bloc, è un generatore di **template** dinamico, può essere usato per creare le proprie **strutture boilerplate** usate spesso nel proprio workflow. Pine ha i propri bricks che aiutano a generare i files ed i relativi file di test.
