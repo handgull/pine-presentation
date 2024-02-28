@@ -67,3 +67,10 @@ Vantaggi:
 
 ## Capitolo bonus: i brick
 Mason è una utility sviluppata dal creatore di bloc, è un generatore di **template** dinamico, può essere usato per creare le proprie **strutture boilerplate** usate spesso nel proprio workflow. Pine ha i propri bricks che aiutano a generare i files ed i relativi file di test.
+
+## Risorse utili
+> [passwordz](https://github.com/Fudeo-it/flutter-workshop-pro/tree/main/passwordz) (ha una sintassi un po vecchia per quanto concerne i bloc)
+
+> [crypto_app](https://github.com/AngeloAvv/crypto_app/tree/master)
+
+> [pine](https://angeloavv.medium.com/pine-a-lightweight-architecture-helper-for-your-flutter-projects-1ce69ac63f74)
